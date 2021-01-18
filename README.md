@@ -1,10 +1,10 @@
 # Web-Scrapping
 Web scrapping kelompok 7
 
-# install library yang dibutuhuhkan
+# install library yang dibutuhhkan
 
- pip install bs4
- pip install requests
+ pip install bs4 <br>
+ pip install requests <br>
 
 # Anggota
 Raihan Fadhlurrahman	(1903015020) <br>
